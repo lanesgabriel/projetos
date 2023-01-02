@@ -4,7 +4,10 @@ export const HeaderContainer = styled.header`
   display: flex;
   align-items: center;
   justify-content: space-between;
+  font-size: 1.5rem;
+  color: ${(props) => props.theme['green-300']};
 
+  
   nav {
     display: flex;
     gap: 0.5rem;

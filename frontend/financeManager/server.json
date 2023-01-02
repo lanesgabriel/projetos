@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-12-28T19:41:48.420Z"
+    },
+    {
+      "id": 2,
+      "description": "Ifood",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-12-20T19:41:48.420Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-12-23T19:41:48.420Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2022-12-29T20:39:09.400Z",
+      "id": 4
+    },
+    {
+      "description": "Açaí",
+      "price": 18,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2022-12-29T20:56:39.056Z",
+      "id": 5
+    }
+  ]
+}
