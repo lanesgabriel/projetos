@@ -1,7 +1,7 @@
 ## In this project, I put into practice:
 
 * React hook form,
-* Zode
+* Zod
 * React Router DOM
 * Context API
 * Hooks like useReducer,
