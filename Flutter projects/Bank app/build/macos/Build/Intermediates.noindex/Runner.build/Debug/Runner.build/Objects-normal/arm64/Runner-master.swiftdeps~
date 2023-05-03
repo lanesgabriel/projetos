@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "78fa7b0d891cab028682a53cb66f7a014a5caf5ed0a5389694419d9efa6d926a"
+build_start_time: [1683034040, 78329000]
+build_end_time: [1683034040, 233252000]
+inputs:
+  "/Users/Lanes/Documents/Alura/Flutter/bankApp/bankapp/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1683034022, 823066322]
+  "/Users/Lanes/Documents/Alura/Flutter/bankApp/bankapp/macos/Runner/AppDelegate.swift": !private [1681827193, 909665912]
+  "/Users/Lanes/Documents/Alura/Flutter/bankApp/bankapp/macos/Runner/MainFlutterWindow.swift": !private [1681827193, 910553639]
